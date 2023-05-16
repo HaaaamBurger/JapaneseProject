@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.main-nav,.caption h6,.caption a:nth-child(6),.info-text p{
+	font-family: 'Bebas Neue', cursive;
+}
